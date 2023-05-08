@@ -1,5 +1,5 @@
 <William-Lucas-Choi>
-# Portfolio
+  
 William L. Choi のポートフォリオです。
 
 ＜準日中・・・＞
