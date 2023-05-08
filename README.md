@@ -2,7 +2,7 @@
   
 William L. Choi のポートフォリオです。
 
-Get Ready..
+＜準日中・・・＞
 
 <!---
 William-Lucas-Choi/William-Lucas-Choi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
