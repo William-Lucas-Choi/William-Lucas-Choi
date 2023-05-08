@@ -1,4 +1,6 @@
 <William-Lucas-Choi>
+  
+William L. Choi のポートフォリオです。
 
 Get Ready..
 
