@@ -1,8 +1,8 @@
-<William-Lucas-Choi>
-  
-William L. Choi のポートフォリオです。
+<制作物リスト>
 
-＜準日中・・・＞
+・GUIで操作するロボットアームシミュレーション(C++)
+・
+・
 
 <!---
 William-Lucas-Choi/William-Lucas-Choi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
